@@ -20,7 +20,7 @@ import gc
 gc.collect()
 
 ssid = 'nikhuge'
-password = 'Skyline1234@A'
+password = ''
 
 station = network.WLAN(network.STA_IF)
 
